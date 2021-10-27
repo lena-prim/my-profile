@@ -1,0 +1,75 @@
+body {
+	background-color: rgb(250, 218, 217);
+	background: rgb(250, 218, 217);
+	color:  rgb(180, 43, 81);
+	font-family: 'Zen Kurenaido', sans-serif;
+	font-size: 15px;
+	text-align: center;
+}
+
+
+h1 {
+	color: rgb(125, 25, 53) ;
+	font-family: 'Bebas Neue', cursive;
+	font-weight: 100;
+	font-size: 20px;
+	text-transform: bold;
+}
+
+h2 {
+	color: rgb(180, 43, 81);
+	font-weight: 80px;
+	font-size: 15px;
+	text-transform: bold;
+	text-decoration: underline;
+}
+
+a {
+	font-family: 'Zen Kurenaido', sans-serif;
+	font-size: 30px;
+	text-decoration: underline;
+	color: rgb(125, 25, 53);
+	transition: 0.3s ease;
+	width: 30px;
+	margin: auto;
+}
+
+a:hover { 
+	color: whitesmoke;
+ }
+
+div {
+ 	background: rgb(247, 218, 217);
+ 	padding: 20px;
+ 	margin: 60px auto;
+ 	margin-top: 30px auto;
+ 	width: 400px;
+ 	box-shadow: 0px 1px 20px rgb(125, 25, 53);
+ 	border-radius: 4px;
+}
+
+ 
+#photography {
+	width: 100px;
+	border-radius: 15%;
+	box-shadow: 0px 0px 0px whitesmoke;
+	border: 5px rgb(125, 25, 53);
+}
+
+
+.text-center {
+	text-align: center;
+}
+
+#lien {
+	width: 150px;
+	background: whitesmoke;
+}
+
+ul {
+	list-style: none;
+	transition: 0.3s ease;
+	width: 30px;
+	margin: auto;
+}
+
